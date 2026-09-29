@@ -1,0 +1,6 @@
+{
+  "name": "calcados-couro-feminino",
+  "description": "Boutique exclusiva de calçados femininos em couro legítimo: rasteiras sofisticadas, saltos geométricos, mocassins artesanais e tênis knit com qualidade e elegância.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
